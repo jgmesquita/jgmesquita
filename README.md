@@ -2,7 +2,7 @@
 
 ### Hey! I'm Jorge! 😎
 
-I'm currently in the final year of my Bachelor's in Informatics Engineering and Computation at FEUP. My next goal is to pursue a Master's degree in Artificial Intelligence. I'm deeply passionate about programming and everything related to the world of technology.
+I'm currently in the first year of my Masters's in Informatics Engineering and Computation at FEUP.  I'm deeply passionate about programming and everything related to the world of technology.
 
 ------
 
