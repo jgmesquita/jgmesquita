@@ -12,11 +12,8 @@ I'm currently in the first year of my Masters's in Informatics Engineering and C
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgmesquita&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jgmesquita"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/RResabala2015">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgmesquita&&theme=tokyonight" alt="jgmesquita" />
-  </a>
-</p>
+
+
 
 ------
 <h3 align="left">Languages and Tools:</h3>
