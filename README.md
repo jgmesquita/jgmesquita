@@ -2,7 +2,7 @@
 
 ### Hey! I'm Jorge! 😎
 
-I'm currently in the first year of my Masters's in Informatics Engineering and Computation at FEUP.  I'm deeply passionate about programming and everything related to the world of technology.
+I'm currently in the first year of my Masters in Informatics Engineering and Computation at FEUP. I'm deeply passionate about programming and everything related to technology.
 
 ------
 
