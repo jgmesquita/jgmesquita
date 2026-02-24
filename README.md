@@ -1,30 +1,16 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 ### Hey! I'm Jorge! 😎
 
 I'm currently in the first year of my Masters in Informatics Engineering and Computation at FEUP. I'm deeply passionate about programming and everything related to technology.
 
-------
-
-
-<div align="center">
-  <a href="https://github.com/jgmesquita">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgmesquita&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="jgmesquita"/>
-  </a>
-</div>
-
-
-
-------
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,python,laravel"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,python,laravel,cs,fastapi,firebase"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,figma,boostrap,selenium"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Low-Level Programming:</td>
@@ -36,7 +22,11 @@ I'm currently in the first year of my Masters in Informatics Engineering and Com
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis,mongodb,cassandra"/></td>
+    </tr>
+   <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Computer Graphics and Game Development:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=unity,threejs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -48,7 +38,7 @@ I'm currently in the first year of my Masters in Informatics Engineering and Com
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash,powershell,cmake,gradle"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash,powershell,cmake,gradle,docker,md,latex"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
@@ -56,5 +46,3 @@ I'm currently in the first year of my Masters in Informatics Engineering and Com
     </tr>
 </table>
 
-------
-[jgmesquita](https://github.com/jgmesquita)
